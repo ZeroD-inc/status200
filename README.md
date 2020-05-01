@@ -2,8 +2,8 @@
 
 A simple multithreaded scanner websites for accessibility    
 
-usage: check.py [-h] [-u URLS] [-t THREADS] [-o OUTPUT] [--timeout TIMEOUT]
-  -h, --help            show this help message and exit
+  usage: check.py [-h] [-u URLS] [-t THREADS] [-o OUTPUT] [--timeout TIMEOUT]
+
   -u URLS, --urls URLS  Файл с целями
   -t THREADS, --threads THREADS
                         Кол-во потоков
